@@ -12,7 +12,7 @@
 <br /><br /><img src="https://github.com/tzutzu858/svg-application/blob/master/picture/1.png" width="700"  ><br />
 <img src="https://github.com/tzutzu858/svg-application/blob/master/picture/2.png" width="500"  ><br />
 ## 主程式
-```js
+```java
 public void animate2(View view) {
         final ImageView v = (ImageView) view;
         Drawable d = v.getDrawable();
